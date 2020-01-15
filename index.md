@@ -9,7 +9,7 @@
       <p><b>Research Interests： Label distribution learning /  Facial emotion recognition/ Multimodal learning</b></p>
     </td>
     <td width="25%">
-      <img src="/xiaoxia.JPG" width="50%">     
+      <img src="/sxx.png" width="50%">     
     </td>
   </tr>
 </table>
